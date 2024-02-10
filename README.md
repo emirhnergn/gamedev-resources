@@ -76,10 +76,14 @@
 2. [LEARN LOW POLY Character Modeling - Blender 3.5 Full Course - Model | Rig | Animate | Clone | Export](https://www.youtube.com/watch?v=PTWV67qUX2k)
 - [Blender 10 Minute Modeling Challenge](https://www.youtube.com/watch?v=IVXuPJuAMJ4&list=PLC7nmYI-cbT1JN7OADBFhSnpkV-odrMyW)
 - [Low Poly Blender Tutorials](https://www.youtube.com/watch?v=GZDxx7AGw78&list=PLsGl9GczcgBvfCQL83JZO_OPGgjn12yuh)
+- [Retopology in Blender (Beginner Tutorial)](https://www.youtube.com/watch?v=X2GNyEUvpD4)
 
-## Texture Painting
+## Texturing
 1. [Blender Texture Painting Tutorials](https://www.youtube.com/watch?v=6jT4K0JpGNs&list=PLsGl9GczcgBsVJWWIEWDBhRtDOA1mUF3i)
 2. [Texture Baking Blender Tutorials](https://www.youtube.com/watch?v=Se8GdHptD4A&list=PLsGl9GczcgBvJPh7D_ITafvmTW7ZzQTEr)
+3. [Blender 2.8 Procedural Texturing (Speed Tutorials)](https://www.youtube.com/watch?v=ubw6yhcx_R8&list=PLZpDYt0cyiuv18KFBVniU2Yi-eI0Jrwo1)
+4. [Blender Procedural Leather Tutorials](https://www.youtube.com/watch?v=In9V4-ih16o&list=PLsGl9GczcgBsTLCN0kQPXmn2td8e5cisz)
+- [Trim sheet and vegetation tutorial](https://www.youtube.com/watch?v=IlyKPcKKKxI)
 
 ## Lightning 
 1. [Blender Lighting Tutorials 💡](https://www.youtube.com/watch?v=aafyp5g1CjI&list=PLsGl9GczcgBsZdwrobBkXT_A8jse09yRz)
@@ -91,18 +95,20 @@
 ## Geometry Nodes
 1. [Geometry Nodes for Complete Beginners](https://www.youtube.com/watch?v=tWvgHbZXCtA&list=PLsGl9GczcgBsDZ3jQPwP1p6evNI22wevP)
 
+## Character Creation
+1. [Character Creation for Beginners](https://www.youtube.com/watch?v=BtRsCLGsDHI&list=PLsGl9GczcgBtNd8e8LhfylyK80elW6sOo)
+2. [How to Create Realistic Characters in Blender with these steps](https://www.youtube.com/watch?v=9z6mRRsO5uA)
+3. [How to Easily Create Realistic Hair using the New Hair tools in Blender](https://www.youtube.com/watch?v=bwI8MzTOlE0)
+
 ## Sculpting
 1. [Blender Sculpting Tutorials](https://www.youtube.com/watch?v=QpmoMX0Fs_U&list=PLsGl9GczcgBsGtywsEiN2ti-5UPq83IMi)
+2. [Retopology in Blender (Beginner Tutorial)](https://www.youtube.com/watch?v=X2GNyEUvpD4)
 
 ## Rigging
 1. [Blender 2.82 Speed Rigging Tutorials](https://www.youtube.com/watch?v=PFaqjwpGxOc&list=PLZpDYt0cyiusytIPAOTPRzsa4GK6LgY3_)
 
 ## Animation
 1. [Blender 2.83 Speed Animating Tutorials](https://www.youtube.com/watch?v=fmFety2tSqI&list=PLZpDYt0cyiut1oZv6zyWgDnyBJu4U1jwJ)
-
-## Procedural Texturing
-1. [Blender 2.8 Procedural Texturing (Speed Tutorials)](https://www.youtube.com/watch?v=ubw6yhcx_R8&list=PLZpDYt0cyiuv18KFBVniU2Yi-eI0Jrwo1)
--  [Blender Procedural Leather Tutorials](https://www.youtube.com/watch?v=In9V4-ih16o&list=PLsGl9GczcgBsTLCN0kQPXmn2td8e5cisz)
 
 ## Physics
 1. [Blender Physics Simulation Tutorials](https://www.youtube.com/watch?v=6Dtwhd1N0bY&list=PLsGl9GczcgBustxQs2JcnSb0Qxnnb7rWC)
@@ -112,3 +118,5 @@
 - [Imphenzia](https://www.youtube.com/@Imphenzia)
 - [The Royal Skies](https://www.youtube.com/@TheRoyalSkies)
 - [Ryan King Art](https://www.youtube.com/@RyanKingArt)
+- [CG Boost](https://www.youtube.com/@cgboost)
+- [PixelicaCG](https://www.youtube.com/@PixelicaCG)
