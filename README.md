@@ -76,7 +76,6 @@
 2. [LEARN LOW POLY Character Modeling - Blender 3.5 Full Course - Model | Rig | Animate | Clone | Export](https://www.youtube.com/watch?v=PTWV67qUX2k)
 - [Blender 10 Minute Modeling Challenge](https://www.youtube.com/watch?v=IVXuPJuAMJ4&list=PLC7nmYI-cbT1JN7OADBFhSnpkV-odrMyW)
 - [Low Poly Blender Tutorials](https://www.youtube.com/watch?v=GZDxx7AGw78&list=PLsGl9GczcgBvfCQL83JZO_OPGgjn12yuh)
-- [Retopology in Blender (Beginner Tutorial)](https://www.youtube.com/watch?v=X2GNyEUvpD4)
 
 ## Texturing
 1. [Blender Texture Painting Tutorials](https://www.youtube.com/watch?v=6jT4K0JpGNs&list=PLsGl9GczcgBsVJWWIEWDBhRtDOA1mUF3i)
@@ -99,6 +98,7 @@
 1. [Character Creation for Beginners](https://www.youtube.com/watch?v=BtRsCLGsDHI&list=PLsGl9GczcgBtNd8e8LhfylyK80elW6sOo)
 2. [How to Create Realistic Characters in Blender with these steps](https://www.youtube.com/watch?v=9z6mRRsO5uA)
 3. [How to Easily Create Realistic Hair using the New Hair tools in Blender](https://www.youtube.com/watch?v=bwI8MzTOlE0)
+- [Retopology in Blender (Beginner Tutorial)](https://www.youtube.com/watch?v=X2GNyEUvpD4)
 
 ## Sculpting
 1. [Blender Sculpting Tutorials](https://www.youtube.com/watch?v=QpmoMX0Fs_U&list=PLsGl9GczcgBsGtywsEiN2ti-5UPq83IMi)
