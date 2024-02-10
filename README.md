@@ -66,27 +66,49 @@
 ## Blender Tutorials
 
 ## Giriş
-- [Blender 4.0 Beginner Donut Tutorial(NEW)](https://www.youtube.com/watch?v=B0J27sf9N1Y&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z)
+1. [Blender 4.0 Beginner Donut Tutorial(NEW)](https://www.youtube.com/watch?v=B0J27sf9N1Y&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z)
 - [Blender How to Export FBX with Texture - Tutorial](https://www.youtube.com/watch?v=kEP34CbPWUo)
+- [Blender Quick Tips](https://www.youtube.com/watch?v=pZ0SY9KRLEc&list=PLsGl9GczcgBsxNhJOVoOwHQDHys1IWLk5)
+- [Blender Addon Reviews](https://www.youtube.com/watch?v=EuD7B2j23u4&list=PLsGl9GczcgBuS46PHk70SEEKaFA2aOPlK)
 
 ## Low Poly
-- [Learn Low Poly Modeling in Blender 2.9 / 2.8](https://www.youtube.com/watch?v=1jHUY3qoBu8)
-- [LEARN LOW POLY Character Modeling - Blender 3.5 Full Course - Model | Rig | Animate | Clone | Export](https://www.youtube.com/watch?v=PTWV67qUX2k)
+1. [Learn Low Poly Modeling in Blender 2.9 / 2.8](https://www.youtube.com/watch?v=1jHUY3qoBu8)
+2. [LEARN LOW POLY Character Modeling - Blender 3.5 Full Course - Model | Rig | Animate | Clone | Export](https://www.youtube.com/watch?v=PTWV67qUX2k)
 - [Blender 10 Minute Modeling Challenge](https://www.youtube.com/watch?v=IVXuPJuAMJ4&list=PLC7nmYI-cbT1JN7OADBFhSnpkV-odrMyW)
+- [Low Poly Blender Tutorials](https://www.youtube.com/watch?v=GZDxx7AGw78&list=PLsGl9GczcgBvfCQL83JZO_OPGgjn12yuh)
+
+## Texture Painting
+1. [Blender Texture Painting Tutorials](https://www.youtube.com/watch?v=6jT4K0JpGNs&list=PLsGl9GczcgBsVJWWIEWDBhRtDOA1mUF3i)
+2. [Texture Baking Blender Tutorials](https://www.youtube.com/watch?v=Se8GdHptD4A&list=PLsGl9GczcgBvJPh7D_ITafvmTW7ZzQTEr)
+
+## Lightning 
+1. [Blender Lighting Tutorials 💡](https://www.youtube.com/watch?v=aafyp5g1CjI&list=PLsGl9GczcgBsZdwrobBkXT_A8jse09yRz)
 
 ## Shaders
-- [Blender 2.8 Principled BSDF (Speed Tutorials)](https://www.youtube.com/watch?v=_IjSYLt9k2A&list=PLZpDYt0cyiut8p1fyrNbzQRNkfKHtUy5e)
+1. [Blender 2.8 Principled BSDF (Speed Tutorials)](https://www.youtube.com/watch?v=_IjSYLt9k2A&list=PLZpDYt0cyiut8p1fyrNbzQRNkfKHtUy5e)
+- [Blender Displacement Tutorials](https://www.youtube.com/watch?v=A8Cy4hRaANM&list=PLsGl9GczcgBuPdltPqVGkl2TTWYfQ1YxV)
+
+## Geometry Nodes
+1. [Geometry Nodes for Complete Beginners](https://www.youtube.com/watch?v=tWvgHbZXCtA&list=PLsGl9GczcgBsDZ3jQPwP1p6evNI22wevP)
+
+## Sculpting
+1. [Blender Sculpting Tutorials](https://www.youtube.com/watch?v=QpmoMX0Fs_U&list=PLsGl9GczcgBsGtywsEiN2ti-5UPq83IMi)
 
 ## Rigging
-- [Blender 2.82 Speed Rigging Tutorials](https://www.youtube.com/watch?v=PFaqjwpGxOc&list=PLZpDYt0cyiusytIPAOTPRzsa4GK6LgY3_)
+1. [Blender 2.82 Speed Rigging Tutorials](https://www.youtube.com/watch?v=PFaqjwpGxOc&list=PLZpDYt0cyiusytIPAOTPRzsa4GK6LgY3_)
 
 ## Animation
-- [Blender 2.83 Speed Animating Tutorials](https://www.youtube.com/watch?v=fmFety2tSqI&list=PLZpDYt0cyiut1oZv6zyWgDnyBJu4U1jwJ)
+1. [Blender 2.83 Speed Animating Tutorials](https://www.youtube.com/watch?v=fmFety2tSqI&list=PLZpDYt0cyiut1oZv6zyWgDnyBJu4U1jwJ)
 
 ## Procedural Texturing
-- [Blender 2.8 Procedural Texturing (Speed Tutorials)](https://www.youtube.com/watch?v=ubw6yhcx_R8&list=PLZpDYt0cyiuv18KFBVniU2Yi-eI0Jrwo1)
+1. [Blender 2.8 Procedural Texturing (Speed Tutorials)](https://www.youtube.com/watch?v=ubw6yhcx_R8&list=PLZpDYt0cyiuv18KFBVniU2Yi-eI0Jrwo1)
+-  [Blender Procedural Leather Tutorials](https://www.youtube.com/watch?v=In9V4-ih16o&list=PLsGl9GczcgBsTLCN0kQPXmn2td8e5cisz)
+
+## Physics
+1. [Blender Physics Simulation Tutorials](https://www.youtube.com/watch?v=6Dtwhd1N0bY&list=PLsGl9GczcgBustxQs2JcnSb0Qxnnb7rWC)
 
 ## Channels
 - [Blender Guru](https://www.youtube.com/@blenderguru)
 - [Imphenzia](https://www.youtube.com/@Imphenzia)
 - [The Royal Skies](https://www.youtube.com/@TheRoyalSkies)
+- [Ryan King Art](https://www.youtube.com/@RyanKingArt)
