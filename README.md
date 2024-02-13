@@ -63,7 +63,7 @@
 - [The Royal Skies](https://www.youtube.com/@TheRoyalSkies)
 - [Matt Aspland](https://www.youtube.com/@MattAspland)
 
-## Blender Tutorials
+# Blender Tutorials
 
 ## Giriş
 1. [Blender 4.0 Beginner Donut Tutorial(NEW)](https://www.youtube.com/watch?v=B0J27sf9N1Y&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z)
