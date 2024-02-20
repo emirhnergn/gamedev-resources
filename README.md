@@ -7,7 +7,7 @@
 2. [How to Create a Game in Unreal Engine 5 - UE5 Beginner Tutorial](https://www.youtube.com/watch?v=1XjgLKrb4_M)
 3. [I went through ALL Unreal Engine plugins, here is what I found](https://www.youtube.com/watch?v=zCkRsYEGD5s)<br/>
 <br/>
-(Türkçe)<br/>
+(Türkçe)
 1. [SIFIRDAN UNREAL ENGİNE 5 - 2024](https://www.youtube.com/watch?v=uirDxrMBHSI&list=PLf5T6Zij5ccgORBBjeMVAGiBDQuJMmh5S)
 
 ## Development
