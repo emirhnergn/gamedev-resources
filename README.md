@@ -5,8 +5,8 @@
 ## Event-Begin-Play
 1. [Unreal Engine 5 Beginner Tutorial - UE5 Starter Course](https://www.youtube.com/watch?v=k-zMkzmduqI)
 2. [How to Create a Game in Unreal Engine 5 - UE5 Beginner Tutorial](https://www.youtube.com/watch?v=1XjgLKrb4_M)
-3. [I went through ALL Unreal Engine plugins, here is what I found](https://www.youtube.com/watch?v=zCkRsYEGD5s)
-(Türkçe)
+3. [I went through ALL Unreal Engine plugins, here is what I found](https://www.youtube.com/watch?v=zCkRsYEGD5s)\n
+(Türkçe)\n
 1. [SIFIRDAN UNREAL ENGİNE 5 - 2024](https://www.youtube.com/watch?v=uirDxrMBHSI&list=PLf5T6Zij5ccgORBBjeMVAGiBDQuJMmh5S)
 
 ## Development
